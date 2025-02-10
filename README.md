@@ -1,9 +1,16 @@
-beta version
+Бета Версия профиля
 
-
-<h1 align="center">Hi 👋, I'm Roman</h1>
+<h1 align="center">Привет 👋, Я Роман (DeminRDru)</h1>
 Я в 
-<p align="center">aka <a href="https://www.youtube.com/">YouTube</a></p>
+<p align="center"><a href="https://www.youtube.com/">Сайт</a></p>
+<p align="center"><a href="https://www.youtube.com/">Блог</a></p>
+<p align="center"><a href="https://vk.com/deminrdru_blog">VK</a></p>
+<p align="center"><a href="https://www.youtube.com/">Boosty</a></p>
+<p align="center"><a href="https://www.youtube.com/">YouTube</a></p>
+<p align="center"><a href="https://www.youtube.com/">Telegram</a></p>
+<p align="center"><a href="https://www.youtube.com/">Telegram Обсуждение </a></p>
+
+
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrey0189&label=Profile%20views&color=0e75b6&style=flat" alt="andrey0189" /> </p>-->
 
