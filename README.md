@@ -4,12 +4,12 @@
 <h3 align="center">Я в:</h3>
 <p align="center">
 <a href="https://DeminRD.ru/">Сайт</a>
-<a href="https://www.youtube.com/">Блог</a>
+<a href="https://blog.DeminRD.ru/">Блог</a>
 <a href="https://vk.com/deminrdru_blog">VK</a>
-<a href="https://www.youtube.com/">Boosty</a>
-<a href="https://www.youtube.com/">YouTube</a>
-<a href="https://www.youtube.com/">Telegram</a>
-<a href="https://www.youtube.com/">Telegram Обсуждение </a>
+<a href="https://boosty.to/deminrd_ru">Boosty</a>
+<a href="https://www.youtube.com/@DeminRDru">YouTube</a>
+<a href="https://t.me/deminrdrublog">Telegram</a>
+<a href="https://t.me/deminrdrublogforum">Telegram Обсуждение </a>
 </p>
 
 <h3 align="center">Проекты:</h3>
