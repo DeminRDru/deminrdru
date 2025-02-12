@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">🌟 Опыт в:</h3>
-<h3 align="center">🌟 ОС:</h3>
+<h3 align="center">ОС:</h3>
 <p align="center">
 <a href="https://microsoft.com/" target="_blank" rel="noreferrer">Windows </a>	
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">Linux </a>
@@ -33,14 +33,20 @@
 <a href="https://www.fedora.org/" target="_blank" rel="noreferrer">Fedora</a>
 <a href="https://www.nixos.org/" target="_blank" rel="noreferrer">NixOS</a>
 </p>
-
-<h3 align="center">🌟 Программы:</h3>
 <p align="center">
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">Photoshop   </a>
+<a href="https://www.gnome.org/" target="_blank" rel="noreferrer">Gnome</a>
+<a href="https://kde.org/ru" target="_blank" rel="noreferrer">KDE</a>
+<a href="https://hyprland.org/" target="_blank" rel="noreferrer">HyprLand </a>
+
+</p>
+
+<h3 align="center">Программы:</h3>
+<p align="center">
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">Photoshop</a>
 <a href="https://krita.org/" target="_blank" rel="noreferrer">Krita  </a>
 </p>
 
-<h3 align="center">🌟 Языки:</h3>
+<h3 align="center">Языки:</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>    </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>    </a>
