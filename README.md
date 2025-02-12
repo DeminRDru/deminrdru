@@ -48,7 +48,7 @@
 <h3 align="center">Программы:</h3>
 <p align="center">
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">Photoshop</a>
-<a href="https://krita.org/" target="_blank" rel="noreferrer">Krita  </a>
+<a href="https://krita.org/" target="_blank" rel="noreferrer">Krita</a>
 </p>
 
 <h3 align="center">Языки:</h3>
