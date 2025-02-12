@@ -18,6 +18,11 @@
 <a href="https://blog.DeminRD.ru/">DeminRD.ru Блог</a>
 <a href="https://serviceinf.ru/">ServiceINF.ru</a>
 </p>
+<h3 align="center">CMS Сайта:</h3>
+<p align="center">
+<a href="https://dle-news.ru/" target="_blank" rel="noreferrer">DataLife Engine</a>
+</p>
+
 
 <h3 align="center">🌟 Опыт в:</h3>
 <h3 align="center">ОС:</h3>
