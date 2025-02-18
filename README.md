@@ -10,8 +10,8 @@
 <a href="https://ko-fi.com/deminrdru">ko-fi</a>
 <a href="https://www.youtube.com/@DeminRDru">YouTube</a>
 <a href="https://t.me/deminrdrublog">Telegram</a>
-<a href="https://t.me/deminrdrublogforum">Telegram Обсуждение </a>
-<a href="https://github.com/DeminRDru/">GitHub </a>
+<a href="https://t.me/deminrdrublogforum">Telegram Обсуждение</a>
+<a href="https://github.com/DeminRDru/">GitHub</a>
 
 
 </p>
