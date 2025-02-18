@@ -67,5 +67,5 @@
 &nbsp;
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deminrdru&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="deminrdru" /></p>
 
-<h3 align="center">😎 Помощь:</h3>
-[!][ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H01ASOUZ)
+<h3 align="center">😎 Пожертвование:</h3>
+................
