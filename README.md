@@ -7,6 +7,7 @@
 <a href="https://blog.DeminRD.ru/">Блог</a>
 <a href="https://vk.com/deminrdru_blog">VK</a>
 <a href="https://www.youtube.com/@DeminRDru">YouTube</a>
+<a href="https://deminrdru.blogspot.com/">blogspot</a>
 <a href="https://t.me/deminrdrublog">Telegram</a>
 <a href="https://t.me/deminrdrublogforum">Telegram Обсуждение</a>
 <a href="https://boosty.to/deminrd_ru">Boosty</a>
