@@ -7,6 +7,8 @@
 <a href="https://blog.DeminRD.ru/">Блог</a>
 <a href="https://vk.com/deminrdru_blog">VK</a>
 <a href="https://boosty.to/deminrd_ru">Boosty</a>
+<a href="https://boosty.to/deminrd_ru">Boosty</a>
+<a href="https://ko-fi.com/deminrdru">ko-fi</a>
 <a href="https://www.youtube.com/@DeminRDru">YouTube</a>
 <a href="https://t.me/deminrdrublog">Telegram</a>
 <a href="https://t.me/deminrdrublogforum">Telegram Обсуждение </a>
@@ -66,4 +68,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deminrdru&show_icons=true&locale=en&theme=github_dark&hide_border=true" alt="deminrdru" /></p>
 
 <h3 align="center">😎 Помощь:</h3>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H01ASOUZ)
+[!][ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H01ASOUZ)
