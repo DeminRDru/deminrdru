@@ -1,5 +1,5 @@
 
-<h1 align="center">Привет 👋, Я Роман (DeminRDru)</h1>
+<h1 align="center">Привет 👋, Я Роман (DeminRD)</h1>
 
 <h3 align="center">Я в:</h3>
 <p align="center">
@@ -15,19 +15,20 @@
 <a href="https://github.com/DeminRDru/">GitHub</a>
 </p>
 
-<h3 align="center">Проекты:</h3>
+<h3 align="center">Мои Проекты:</h3>
 <p align="center">
-<a href="https://DeminRD.ru/">DeminRD.ru</a>
-<a href="https://blog.DeminRD.ru/">DeminRD.ru Блог</a>
-<a href="https://serviceinf.ru/">ServiceINF.ru</a>
+  <a href="https://starlight-fen.ru/">Starlight-fen</a>
+  <a href="https://serviceinf.ru/">ServiceINF.ru</a>
+  <a href="https://DeminRD.ru/">DeminRD.ru</a>
+  <a href="https://blog.DeminRD.ru/">DeminRD.ru Блог</a>
 </p>
-<h3 align="center">CMS Сайта:</h3>
+
+<h3 align="center">CMS Сайта в котором работаю:</h3>
 <p align="center">
 <a href="https://dle-news.ru/" target="_blank" rel="noreferrer">DataLife Engine</a>
 </p>
 
-
-<h3 align="center">🌟 Опыт в:</h3>
+<h3 align="center">🌟 Опыт в ОС (на нормальное пользование, а где я новичек (NixOS)):</h3>
 <h3 align="center">ОС:</h3>
 <p align="center">
 <a href="https://microsoft.com/" target="_blank" rel="noreferrer">Windows </a>	
@@ -41,11 +42,11 @@
 <a href="https://www.fedora.org/" target="_blank" rel="noreferrer">Fedora</a>
 <a href="https://www.nixos.org/" target="_blank" rel="noreferrer">NixOS</a>
 </p>
+
 <p align="center">
 <a href="https://www.gnome.org/" target="_blank" rel="noreferrer">Gnome</a>
 <a href="https://kde.org/ru" target="_blank" rel="noreferrer">KDE</a>
 <a href="https://hyprland.org/" target="_blank" rel="noreferrer">HyprLand </a>
-
 </p>
 
 <h3 align="center">Программы:</h3>
@@ -54,11 +55,12 @@
 <a href="https://krita.org/" target="_blank" rel="noreferrer">Krita</a>
 </p>
 
-<h3 align="center">Языки:</h3>
+<h3 align="center">В языках програмирую (js,ajax Новичёк):</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">html</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">css</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">js</a>
+ajax
 </p>
 
 ---
